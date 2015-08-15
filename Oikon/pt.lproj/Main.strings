@@ -1,0 +1,147 @@
+
+/* Class = "IBUILabel"; text = "Valor"; ObjectID = "01d-D0-Cuw"; */
+"01d-D0-Cuw.text" = "Valor";
+
+/* Class = "IBUILabel"; text = "Tipo de despesa"; ObjectID = "08c-of-DW9"; */
+"08c-of-DW9.text" = "Tipo de despesa";
+
+/* Class = "IBUILabel"; text = "Dezembro"; ObjectID = "1fp-bi-RiT"; */
+"1fp-bi-RiT.text" = "Dezembro";
+
+/* Class = "IBUILabel"; text = "Data"; ObjectID = "4l7-fw-m6e"; */
+"4l7-fw-m6e.text" = "Data";
+
+/* Class = "IBUILabel"; text = "Nome da despesa"; ObjectID = "5Iz-gw-FCZ"; */
+"5Iz-gw-FCZ.text" = "Nome da despesa";
+
+/* Class = "IBUITextField"; text = "26 Julho, 2014"; ObjectID = "5uZ-Ah-qq0"; */
+"5uZ-Ah-qq0.text" = "26 Julho, 2014";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "61v-8Q-wfT"; */
+"61v-8Q-wfT.text" = "1";
+
+/* Class = "IBUILabel"; text = "Última Sincronização:"; ObjectID = "6gt-Xc-khN"; */
+"6gt-Xc-khN.text" = "Última Sincronização:";
+
+/* Class = "IBUILabel"; text = "Tipo de Despesa"; ObjectID = "7AG-8K-Oj4"; */
+"7AG-8K-Oj4.text" = "Tipo de Despesa";
+
+/* Class = "IBUILabel"; text = "Nome"; ObjectID = "7yo-47-io3"; */
+"7yo-47-io3.text" = "Nome";
+
+/* Class = "IBUILabel"; text = "Desde"; ObjectID = "8Ix-G5-BWx"; */
+"8Ix-G5-BWx.text" = "Desde";
+
+/* Class = "IBUILabel"; text = "Quando foi?"; ObjectID = "94G-6O-EyR"; */
+"94G-6O-EyR.text" = "Quando foi?";
+
+/* Class = "IBUIButton"; normalTitle = "Limpar / Mostrar Todos"; ObjectID = "9MF-VW-9nf"; */
+"9MF-VW-9nf.normalTitle" = "Limpar / Mostrar Todos";
+
+/* Class = "IBUIButton"; normalTitle = "Menos Opções"; ObjectID = "ALG-Ch-rwk"; */
+"ALG-Ch-rwk.normalTitle" = "Menos Opções";
+
+/* Class = "IBUILabel"; text = "Tipo"; ObjectID = "AT4-7X-rST"; */
+"AT4-7X-rST.text" = "Tipo";
+
+/* Class = "IBUITextField"; text = "1.49"; ObjectID = "B1E-24-TbX"; */
+"B1E-24-TbX.text" = "1.49";
+
+/* Class = "IBUILabel"; text = "agora..."; ObjectID = "B8c-yn-sgH"; */
+"B8c-yn-sgH.text" = "agora...";
+
+/* Class = "IBUITextField"; placeholder = "sem categoria"; ObjectID = "CHc-cN-z0u"; */
+"CHc-cN-z0u.placeholder" = "sem categoria";
+
+/* Class = "IBUIButton"; normalTitle = "Adicionar Despesa"; ObjectID = "CoU-aI-AlW"; */
+"CoU-aI-AlW.normalTitle" = "Adicionar Despesa";
+
+/* Class = "IBUILabel"; text = "Sincronização iCloud"; ObjectID = "FvL-VX-hcS"; */
+"FvL-VX-hcS.text" = "Sincronização iCloud";
+
+/* Class = "IBUILabel"; text = "Quanto gastaste?"; ObjectID = "GgN-Fk-FRv"; */
+"GgN-Fk-FRv.text" = "Quanto gastaste?";
+
+/* Class = "IBUILabel"; text = "Total"; ObjectID = "H0t-7X-y3k"; */
+"H0t-7X-y3k.text" = "Total";
+
+/* Class = "IBUILabel"; text = "Nome"; ObjectID = "JMq-cT-OR0"; */
+"JMq-cT-OR0.text" = "Nome";
+
+/* Class = "IBUILabel"; text = "Nome"; ObjectID = "LeI-1X-5Qq"; */
+"LeI-1X-5Qq.text" = "Nome";
+
+/* Class = "IBUILabel"; text = "# Desp."; ObjectID = "LnI-Uu-TWF"; */
+"LnI-Uu-TWF.text" = "# Desp.";
+
+/* Class = "IBUILabel"; text = "Tipo"; ObjectID = "PTG-xw-W73"; */
+"PTG-xw-W73.text" = "Tipo";
+
+/* Class = "IBUIButton"; normalTitle = "Remover Todos os Dados"; ObjectID = "SPQ-YY-zkl"; */
+"SPQ-YY-zkl.normalTitle" = "Remover Todos os Dados";
+
+/* Class = "IBUILabel"; text = "Que tipo de despesa foi?"; ObjectID = "SuJ-Kd-EBR"; */
+"SuJ-Kd-EBR.text" = "Que tipo de despesa foi?";
+
+/* Class = "IBUITextField"; placeholder = "café"; ObjectID = "XZa-Be-dmy"; */
+"XZa-Be-dmy.placeholder" = "café";
+
+/* Class = "IBUILabel"; text = "Data"; ObjectID = "ado-4D-d6x"; */
+"ado-4D-d6x.text" = "Data";
+
+/* Class = "IBUILabel"; text = "Até"; ObjectID = "bj4-Dr-imX"; */
+"bj4-Dr-imX.text" = "Até";
+
+/* Class = "IBUIButton"; normalTitle = "Adicionar Despesa"; ObjectID = "eL2-pG-w5T"; */
+"eL2-pG-w5T.normalTitle" = "Adicionar Despesa";
+
+/* Class = "IBUITextField"; placeholder = "PIN"; ObjectID = "egK-Vz-Fgq"; */
+"egK-Vz-Fgq.placeholder" = "PIN";
+
+/* Class = "IBUILabel"; text = "31"; ObjectID = "fzH-v8-VQL"; */
+"fzH-v8-VQL.text" = "31";
+
+/* Class = "IBUILabel"; text = "Valor"; ObjectID = "hfH-gD-FBO"; */
+"hfH-gD-FBO.text" = "Valor";
+
+/* Class = "IBUILabel"; text = "PIN"; ObjectID = "ihM-rk-F1d"; */
+"ihM-rk-F1d.text" = "PIN";
+
+/* Class = "IBUILabel"; text = "Data da despesa"; ObjectID = "juH-CA-tUe"; */
+"juH-CA-tUe.text" = "Data da despesa";
+
+/* Class = "IBUILabel"; text = "Janeiro"; ObjectID = "k3y-HJ-gU0"; */
+"k3y-HJ-gU0.text" = "Janeiro";
+
+/* Class = "IBUITextField"; text = "Donut de Chocolate"; ObjectID = "lXh-Iu-xbN"; */
+"lXh-Iu-xbN.text" = "Donut de Chocolate";
+
+/* Class = "IBUILabel"; text = "# Despesas"; ObjectID = "mQP-6T-X3e"; */
+"mQP-6T-X3e.text" = "# Despesas";
+
+/* Class = "IBUIButton"; normalTitle = "Adicionar Tipo de Despesa"; ObjectID = "mVU-Ok-OfP"; */
+"mVU-Ok-OfP.normalTitle" = "Adicionar Tipo de Despesa";
+
+/* Class = "IBUIButton"; normalTitle = "Mais Opções"; ObjectID = "noP-IX-nvo"; */
+"noP-IX-nvo.normalTitle" = "Mais Opções";
+
+/* Class = "IBUITextField"; placeholder = "9.99"; ObjectID = "q0J-Uo-4eU"; */
+"q0J-Uo-4eU.placeholder" = "9.99";
+
+/* Class = "IBUITextField"; text = "Comida"; ObjectID = "rYt-uY-03m"; */
+"rYt-uY-03m.text" = "Comida";
+
+/* Class = "IBUILabel"; text = "Valor"; ObjectID = "rjk-nd-Gwm"; */
+"rjk-nd-Gwm.text" = "Valor";
+
+/* Class = "IBUILabel"; text = "O que é que foi?"; ObjectID = "saC-5J-EMz"; */
+"saC-5J-EMz.text" = "O que é que foi?";
+
+/* Class = "IBUITextField"; placeholder = "hoje"; ObjectID = "w9J-uC-KG3"; */
+"w9J-uC-KG3.placeholder" = "hoje";
+
+/* Class = "IBUILabel"; text = "Valor da despesa"; ObjectID = "wsg-dz-14K"; */
+"wsg-dz-14K.text" = "Valor da despesa";
+
+/* Class = "IBUILabel"; text = "Nome"; ObjectID = "yLS-gl-p8B"; */
+"yLS-gl-p8B.text" = "Nome";

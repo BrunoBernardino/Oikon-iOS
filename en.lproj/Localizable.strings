@@ -1,0 +1,94 @@
+/* 
+  Localizable.strings
+  Oikon
+
+  Created by Bruno Bernardino on 03/09/14.
+  Copyright (c) 2014 emotionLoop. All rights reserved.
+*/
+// MainViewController.m
+"Oikon" = "Oikon";
+"9.99" = "9.99";
+"coffee" = "coffee";
+"today" = "today";
+"uncategorized" = "uncategorized";
+"Add" = "Add";
+"en_US" = "en_US";
+"MMM, d, yyyy" = "MMM, d, yyyy";
+"Oops!" = "Oops!";
+"Please confirm the value of the expense." = "Please confirm the value of the expense.";
+"OK" = "OK";
+"Please confirm the name of the expense." = "Please confirm the name of the expense.";
+"Expense Added!" = "Expense Added!";
+"Your expense was added successfully." = "Your expense was added successfully.";
+"Expense Error!" = "Expense Error!";
+"There was an error adding your expense. Please confirm the value types match." = "There was an error adding your expense. Please confirm the value types match.";
+"Cancel" = "Cancel";
+"Manage Expense Types" = "Manage Expense Types";
+"View Past Expenses" = "View Past Expenses";
+"Settings" = "Settings";
+"Unlock App" = "Unlock App";
+"Done" = "Done";
+// ExpenseTypeListViewController.m
+"Expense Types" = "Expense Types";
+"Update Expense Type" = "Update Expense Type";
+"Please type the new name of the expense type" = "Please type the new name of the expense type";
+"Update" = "Update";
+"Add New Expense Type" = "Add New Expense Type";
+"Please type the name of the new expense type" = "Please type the name of the new expense type";
+"Please confirm the name of the expense type." = "Please confirm the name of the expense type.";
+"Your expense type can't be called 'uncategorized'." = "Your expense type can't be called 'uncategorized'.";
+"An expense type with the same name already exists." = "An expense type with the same name already exists.";
+"Expense Type Added!" = "Expense Type Added!";
+"Your expense type was added successfully." = "Your expense type was added successfully.";
+"Expense Type Error!" = "Expense Type Error!";
+"There was an error adding your expense type. Please confirm the name does not already exist." = "There was an error adding your expense type. Please confirm the name does not already exist.";
+"We were not able to find the expense type you selected. Please try again." = "We were not able to find the expense type you selected. Please try again.";
+"The new name has to be different from the current one." = "The new name has to be different from the current one.";
+"Expense Type Updated!" = "Expense Type Updated!";
+"Your expense type was updated successfully." = "Your expense type was updated successfully.";
+"There was an error adding your expense type. Please confirm the new name does not already exist." = "There was an error adding your expense type. Please confirm the new name does not already exist.";
+// ListViewController.m
+"Past Expenses" = "Past Expenses";
+"MMM, d" = "MMM, d";
+"Export CSV to..." = "Export CSV to...";
+"Email" = "Email";
+"No Expenses!" = "No Expenses!";
+"We couldn't find any expenses for the period set." = "We couldn't find any expenses for the period set.";
+"Expenses Error!" = "Expenses Error!";
+"There was an error fetching your expenses. Maybe you don't have any yet?" = "There was an error fetching your expenses. Maybe you don't have any yet?";
+"Oikon CSV Export: %@ to %@" = "Oikon CSV Export: %@ to %@";
+"Enjoy this CSV file with my expense data. It's from %@ to %@" = "Enjoy this CSV file with my expense data. It's from %@ to %@";
+"It seems you don't have email configured on your iOS device. Please take care of that first." = "It seems you don't have email configured on your iOS device. Please take care of that first.";
+"Filter By Expense Name" = "Filter By Expense Name";
+"Please type what should the expense names contain." = "Please type what should the expense names contain.";
+// ExpenseViewController.m
+"Expense" = "Expense";
+"Save" = "Save";
+"Expense Updated!" = "Expense Updated!";
+"Your expense was updated successfully." = "Your expense was updated successfully.";
+"There was an error updating your expense. Please confirm the value types match." = "There was an error updating your expense. Please confirm the value types match.";
+// ListFilterTypeViewController.m
+"Filter Types" = "Filter Types";
+// SettingsViewController.m
+"remove all local & iCloud data" = "remove all local & iCloud data";
+"passcode in order to disable it" = "passcode in order to disable it";
+"Wrong Passcode!" = "Wrong Passcode!";
+"Please try again. You have used %d of %d attempts before the app auto-closes." = "Please try again. You have used %d of %d attempts before the app auto-closes.";
+"type in your new passcode" = "type in your new passcode";
+"New Passcode" = "New Passcode";
+"Please confirm your new passcode." = "Please confirm your new passcode.";
+"Confirm" = "Confirm";
+"Invalid Passcode!" = "Invalid Passcode!";
+"The passcode needs to be 4 digits." = "The passcode needs to be 4 digits.";
+"confirm your new passcode" = "confirm your new passcode";
+"The passcodes do not match." = "The passcodes do not match.";
+"Are you sure?" = "Are you sure?";
+"This will remove all local & iCloud data, including expenses, and expense types." = "This will remove all local & iCloud data, including expenses, and expense types.";
+"Current Passcode" = "Current Passcode";
+"Please type in your current passcode in order to disable it." = "Please type in your current passcode in order to disable it.";
+"Please type in your new passcode." = "Please type in your new passcode.";
+"Continue" = "Continue";
+"HH:mm:ss - MMM, d, yyyy" = "HH:mm:ss - MMM, d, yyyy";
+"now..." = "now...";
+// PasscodeViewController.m
+"Unlock" = "Unlock";

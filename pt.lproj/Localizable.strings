@@ -1,0 +1,94 @@
+/* 
+  Localizable.strings
+  Oikon
+
+  Created by Bruno Bernardino on 03/09/14.
+  Copyright (c) 2014 emotionLoop. All rights reserved.
+*/
+// MainViewController.m
+"Oikon" = "Oikon";
+"9.99" = "9.99";
+"coffee" = "café";
+"today" = "hoje";
+"uncategorized" = "sem categoria";
+"Add" = "Adicionar";
+"en_US" = "pt_PT";
+"MMM, d, yyyy" = "d MMM, yyyy";
+"Oops!" = "Ups!";
+"Please confirm the value of the expense." = "Por favor confirma o valor da despesa.";
+"OK" = "OK";
+"Please confirm the name of the expense." = "Por favor confirma o nome da despesa.";
+"Expense Added!" = "Despesa Adicionada!";
+"Your expense was added successfully." = "A tua despesa foi adicionada com sucesso.";
+"Expense Error!" = "Erro de Despesa!";
+"There was an error adding your expense. Please confirm the value types match." = "Ocorreu um erro ao adicionar a tua despesa. Por favor confirma que os tipos de valor coincidem.";
+"Cancel" = "Cancelar";
+"Manage Expense Types" = "Gerir Tipos de Despesa";
+"View Past Expenses" = "Ver Despesas Anteriores";
+"Settings" = "Definições";
+"Unlock App" = "Desbloquear App";
+"Done" = "Feito";
+// ExpenseTypeListViewController.m
+"Expense Types" = "Tipos de Despesa";
+"Update Expense Type" = "Actualizar Tipo de Despesa";
+"Please type the new name of the expense type" = "Por favor escreve o novo nome do tipo de despesa";
+"Update" = "Actualizar";
+"Add New Expense Type" = "Adicionar Novo Tipo de Despesa";
+"Please type the name of the new expense type" = "Por favor escreve o nome da novo tipo de despesa";
+"Please confirm the name of the expense type." = "Por favor confirma o nome do tipo de despesa.";
+"Your expense type can't be called 'uncategorized'." = "O teu tipo de despesa não se pode chamar 'sem categoria'.";
+"An expense type with the same name already exists." = "Já existe um tipo de despesa com o mesmo nome.";
+"Expense Type Added!" = "Tipo de Despesa Adicionado!";
+"Your expense type was added successfully." = "O teu tipo de despesa foi adicionado com sucesso.";
+"Expense Type Error!" = "Erro de Tipo de Despesa!";
+"There was an error adding your expense type. Please confirm the name does not already exist." = "Ocorreu um erro ao adicionar o teu tipo de despesa. Por favor confirma se o nome não existe já.";
+"We were not able to find the expense type you selected. Please try again." = "Não foi possível encontrar o tipo de despesa que seleccionaste. Por favor tenta novamente.";
+"The new name has to be different from the current one." = "O novo nome tem de ser diferente do actual.";
+"Expense Type Updated!" = "Tipo de Despesa Actualizado!";
+"Your expense type was updated successfully." = "O teu tipo de despesa foi actualizado com sucesso.";
+"There was an error adding your expense type. Please confirm the new name does not already exist." = "Ocorreu um erro ao adicionar o teu tipo de despesa. Por favor confirma que o novo nome não existe já.";
+// ListViewController.m
+"Past Expenses" = "Despesas Anteriores";
+"MMM, d" = "d MMM";
+"Export CSV to..." = "Exportar CSV para...";
+"Email" = "Email";
+"No Expenses!" = "Sem Despesas!";
+"We couldn't find any expenses for the period set." = "Não foi possível encontrar quaisquer despesas para o período definido.";
+"Expenses Error!" = "Erro de Despesas!";
+"There was an error fetching your expenses. Maybe you don't have any yet?" = "Ocorreu um erro ao tentar encontrar despesas. Talvez ainda não tenhas quaisquer?";
+"Oikon CSV Export: %@ to %@" = "Exportação CSV: %@ a %@";
+"Enjoy this CSV file with my expense data. It's from %@ to %@" = "Espero que gostes deste ficheiro CSV com os meus dados de despesas. É desde %@ até %@";
+"It seems you don't have email configured on your iOS device. Please take care of that first." = "Para que ainda não tens email configurado no teu dispositivo iOS. Por favor trata disso primeiro.";
+"Filter By Expense Name" = "Filtrar por Nome de Despesa";
+"Please type what should the expense names contain." = "Por favor escreve o que o nome das despesas deve conter.";
+// ExpenseViewController.m
+"Expense" = "Despesa";
+"Save" = "Guardar";
+"Expense Updated!" = "Despesa Actualizada!";
+"Your expense was updated successfully." = "A tua despesa foi actualizada com sucesso.";
+"There was an error updating your expense. Please confirm the value types match." = "Ocorreu um erro a actualizar a tua desepsa. Por favor confirma que os tipos de valores confirmam.";
+// ListFilterTypeViewController.m
+"Filter Types" = "Filtrar Tipos";
+// SettingsViewController.m
+"remove all local & iCloud data" = "remover todos os dados locais & do iCloud";
+"passcode in order to disable it" = "PIN actual para o desactivar";
+"Wrong Passcode!" = "PIN Errado!";
+"Please try again. You have used %d of %d attempts before the app auto-closes." = "Por favor tenta novamente. Usaste %d de %d tentativas antes de a app fechar automaticamente.";
+"type in your new passcode" = "escreve o novo PIN";
+"New Passcode" = "Novo PIN";
+"Please confirm your new passcode." = "Por favor confirma o teu novo PIN.";
+"Confirm" = "Confirmar";
+"Invalid Passcode!" = "PIN Inválido!";
+"The passcode needs to be 4 digits." = "O PIN tem de ser 4 dígitos.";
+"confirm your new passcode" = "confirma o teu novo PIN";
+"The passcodes do not match." = "Os PINs não são iguais.";
+"Are you sure?" = "Tens a certeza?";
+"This will remove all local & iCloud data, including expenses, and expense types." = "Isto irá remover todos os dados locais & do iCloud, incluindo despesas, e tipos de despesas.";
+"Current Passcode" = "PIN Actual";
+"Please type in your current passcode in order to disable it." = "Por favor escreve o PIN actual para o desactivar.";
+"Please type in your new passcode." = "Por favor escreve o novo PIN.";
+"Continue" = "Continuar";
+"HH:mm:ss - MMM, d, yyyy" = "HH:mm:ss - d MMM, yyyy";
+"now..." = "agora...";
+// PasscodeViewController.m
+"Unlock" = "Desbloquear";
