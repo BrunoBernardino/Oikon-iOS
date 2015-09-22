@@ -518,6 +518,28 @@
 
 -(void)viewDidLayoutSubviews
 {
+    // If there's an input being focused, don't change anything
+    if (
+        [self.expenseValueTextField isFirstResponder]
+        || [self.expenseNameTextField isFirstResponder]
+        || [self.expenseDateTextField isFirstResponder]
+        || [self.expenseTypeTextField isFirstResponder]
+        ) {
+        [super viewDidLayoutSubviews];
+        
+        // Scroll to the right place so things don't look too messed up
+        if (
+            [self.expenseValueTextField isFirstResponder]
+            || [self.expenseNameTextField isFirstResponder]
+            ) {
+            [self scrollToLess:nil];
+        } else {
+            [self scrollToMore:nil];
+        }
+
+        return;
+    }
+    
     // If screen is tall, move some things around
     if ( IS_SCREEN_TALL == YES ) {
         NSLog(@"Screen height difference = %d", (int)SCREEN_HEIGHT_DIFFERENCE);
