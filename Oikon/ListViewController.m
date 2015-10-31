@@ -599,7 +599,7 @@
 - (IBAction) exportCSVToEmail
 {
 	NSString *textFileContentsString = [self getCSVFileString];
-	NSData *textFileContentsData = [textFileContentsString dataUsingEncoding:NSASCIIStringEncoding];
+	NSData *textFileContentsData = [textFileContentsString dataUsingEncoding:NSUTF8StringEncoding];
 	
 	// Add dates to subject, body, and file name
 	NSString *currentFromDate = [self formatDateForCSV:self.currentFromDate];
