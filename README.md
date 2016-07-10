@@ -9,3 +9,11 @@ This was my first ever iOS project, and Objective-C experience as well, so I kno
 If there are suggestions, I'd appreciate them!
 
 If you find value in this, [please consider donating a dollar](https://medium.com/@BrunoBernardino/if-i-ve-helped-you-consider-donating-86952f22e3b4).
+
+## Dependencies
+
+Cocoapods: `$ sudo gem install cocoapods`.
+
+## Development
+
+Run `$ pod install`.

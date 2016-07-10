@@ -1,2 +1,4 @@
 platform :ios, '7.0'
-pod 'Toast', '~> 2.4'
+target "Oikon" do
+    pod 'Toast', '~> 2.4'
+end

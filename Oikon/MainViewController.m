@@ -310,6 +310,16 @@
     numberFormatter.locale = [NSLocale currentLocale];
     [numberFormatter setNumberStyle: NSNumberFormatterDecimalStyle];
     
+    // Replace comma decimal to dot decimal
+    if ([numberFormatter.currencyDecimalSeparator isEqual: @"."]) {
+        self.expenseValueTextField.text = [self.expenseValueTextField.text stringByReplacingOccurrencesOfString:@"," withString:@"."];
+    }
+    
+    // Replace dot decimal to comma decimal
+    if ([numberFormatter.currencyDecimalSeparator isEqual: @","]) {
+        self.expenseValueTextField.text = [self.expenseValueTextField.text stringByReplacingOccurrencesOfString:@"." withString:@","];
+    }
+    
     NSNumber *expenseValue = [numberFormatter numberFromString:self.expenseValueTextField.text];
     NSString *expenseName = self.expenseNameTextField.text;
 	NSString *expenseType = self.expenseTypeTextField.text;
