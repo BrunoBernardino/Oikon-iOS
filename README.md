@@ -1,6 +1,6 @@
 # Oikon iOS
 
-This is the code for the Oikon iOS app, available at http://oikon.us
+This is the code for the Oikon iOS app, available at https://oikon.net
 
 It's open for everyone to contribute to.
 

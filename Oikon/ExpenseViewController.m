@@ -282,7 +282,7 @@
     }
     
     NSNumber *expenseValue = [numberFormatter numberFromString:self.expenseValueTextField.text];
-    NSString *expenseName = self.expenseNameTextField.text;
+    NSString *expenseName = self.expenseNameTextField.text;// Intentional no-trimming on edit
 	NSString *expenseType = self.expenseTypeTextField.text;
 	NSDate *expenseDate = [self.mainViewControllerReference getDateFromString:self.expenseDateTextField.text];
     
@@ -290,8 +290,8 @@
     // START: Validate fields for common errors
     //
     
-    // Check if value is greater than 0
-    if ( expenseValue <= 0 ) {
+    // Check if value has been set (and allow negatives!)
+    if ( expenseValue == 0 ) {
         UIAlertView *alertView = [[UIAlertView alloc] initWithTitle:NSLocalizedString(@"Oops!", nil) message:NSLocalizedString(@"Please confirm the value of the expense.", nil) delegate:self cancelButtonTitle:NSLocalizedString(@"OK", nil) otherButtonTitles:nil];
         
         [alertView show];
