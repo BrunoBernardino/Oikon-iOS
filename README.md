@@ -1,6 +1,6 @@
 # Oikon iOS
 
-This is the code for the Oikon iOS app, available at http://oikon.us
+This is the code for the Oikon iOS app, available at https://oikon.net/v1/
 
 It's open for everyone to contribute to.
 
@@ -8,7 +8,7 @@ This was my first ever iOS project, and Objective-C experience as well, so I kno
 
 If there are suggestions, I'd appreciate them!
 
-If you find value in this, [please consider donating a dollar](https://medium.com/@BrunoBernardino/if-i-ve-helped-you-consider-donating-86952f22e3b4).
+If you find value in this, [please consider donating a dollar](https://thoughts.brunobernardino.com/if-i-ve-helped-you-consider-donating/).
 
 ## Dependencies
 
